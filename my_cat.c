@@ -1,3 +1,5 @@
+/* Read a file and print its contents to terminal. */
+
 #include <stdio.h>
 #include <stdlib.h>
 // added for 2nd solution:
